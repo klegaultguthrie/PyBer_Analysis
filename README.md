@@ -28,7 +28,7 @@ Average Fare per ride
 
 The chart below provides a clear summary of the differences in the market size from small to large  metropolitan areas.
 
-![Fig10] (https://github.com/klegaultguthrie/PyBer_Analysis/blob/main/analysis/Fig10.png)
+![Fig11](https://github.com/klegaultguthrie/PyBer_Analysis/blob/main/analysis/Fig%2011.png)
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 Summary:
