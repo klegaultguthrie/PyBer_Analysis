@@ -2,9 +2,9 @@
 
 #Overview of the analysis:
 The pupose of this analysis is to create a summary dataframe of the ride data by city type. City type in this case is defined by the following categories:
-** Urban
-** Suburban
-** Rural
++ Urban
++ Suburban
++ Rural
 
 The purpose of the new analysis is well defined. (3 pt)
 Results:
