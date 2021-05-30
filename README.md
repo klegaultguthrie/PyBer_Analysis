@@ -9,6 +9,8 @@ The pupose of this analysis is to create a summary dataframe of the ride data by
 The purpose of the new analysis is well defined. (3 pt)
 Results:
 
+(https://github.com/klegaultguthrie/PyBer_Analysis/blob/main/analysis/Fig10.png)
+
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 Summary:
 
